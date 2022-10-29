@@ -1,0 +1,8 @@
+.grid-line {
+  min-height: 60px;
+  padding: 10px 7px;
+}
+.grid-line > div {
+  border: 2px dashed #eee;
+  height: 100%;
+}
